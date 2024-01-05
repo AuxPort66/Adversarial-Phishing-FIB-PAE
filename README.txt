@@ -1,4 +1,4 @@
-Project created together with the Nestlé's cybersecurity group in the PAE (Applied Engineering Project) subject of the UPC-FIB university.
+Project created in the PAE (Applied Engineering Project) subject of the UPC-FIB university and supervised for the Nestlé's cybersecurity group
 
 This program presents an AI prototype for the problem that Nestlé presented to us about improving an AI for the detection of
 phishing in an environment with attacks from adversaries.
