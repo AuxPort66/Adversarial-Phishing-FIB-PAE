@@ -1,7 +1,9 @@
-Project for FIB-PAE together with Nestlé's cybersecurity group.
+Project created together with the Nestlé's cybersecurity group in the PAE (Applied Engineering Project) subject of the UPC-FIB university.
 
 This program presents an AI prototype for the problem that Nestlé presented to us about improving an AI for the detection of
 phishing in an environment with attacks from adversaries.
+
+I created two AIs, one attacker that creates fake links and another that detects between fake and real ones. The goal is to improve the detection of suspicious links to better classify credential theft attempts.
 
 USE:
 1. Run RandomForestURLClient.ipynb to create discriminatormodel.sav which is our basic phishing detection model.
